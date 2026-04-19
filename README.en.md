@@ -58,7 +58,7 @@
 | 📁 **Resource Management** | Texture/audio automatic caching | ⭐⭐⭐⭐ |
 | 🎬 **Scene Management** | Multi-scene switching, lifecycle | ⭐⭐⭐⭐⭐ |
 
-### Total Lines of Code: ~2500 lines  
+### Total Lines of Code: ~1300 lines  
 ### Compiled Size: ~300KB  
 ### Learning Time: 10 minutes  
 ### Flex Index: Infinite
