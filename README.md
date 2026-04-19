@@ -6,7 +6,7 @@
 ### 🔥 终极 · 开源 · 跨维度 · 虚拟世界构建引擎 🔥
 
 [![C++17](https://img.shields.io/badge/C%2B%2B-17-ff69b4.svg)]()
-[![Windows](https://img.shields.io/badge/Windows-10%2B-00ff00.svg)]()
+[![Windows](https://img.shields.io/badge/Windows-XP%2B-00ff00.svg)]()
 [![License](https://img.shields.io/badge/License-MIT-red.svg)]()
 [![Version](https://img.shields.io/badge/Version-1.0.0-ffaa00.svg)]()
 [![Stars](https://img.shields.io/badge/Stars-Unlimited-gold.svg)]()
