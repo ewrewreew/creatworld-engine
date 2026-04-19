@@ -41,7 +41,7 @@
 | ⚡ **Real-time Rendering** | 60 fps? No, it runs at your monitor's limit |
 | 🎮 **Interactive Experience** | Keyboard, mouse, particles, physics, audio — everything included |
 | 📦 **Zero Dependencies** | Single header file. Yes, just one file. Copy and use. |
-| 🔥 **Insane Performance** | Compiles to 50KB. Smaller than your notepad. |
+| 🔥 **Insane Performance** | Compiles to 300KB. Smaller than your notepad. |
 
 ---
 
