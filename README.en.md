@@ -219,7 +219,7 @@ bgm.play(0.5f, true);  // Loop playback
 ```
 Creatworld/
 │
-├── Creatworld.hpp      ← Just this one file! 2500 lines!
+├── Creatworld.hpp      ← Just this one file! 1300 lines!
 ├── README.md           ← The file you're reading
 ├── LICENSE             ← MIT, use freely
 
