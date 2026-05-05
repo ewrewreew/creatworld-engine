@@ -220,7 +220,7 @@ bgm.play(0.5f, true);  // 循环播放
 ```
 Creatworld/
 │
-├── Creatworld.hpp      ← 就这一个文件！2500行代码！
+├── Creatworld.hpp      ← 就这一个文件！1300行代码！
 ├── README.md           ← 你正在看的这个文件
 ├── LICENSE             ← MIT，随便用
 
