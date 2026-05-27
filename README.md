@@ -269,7 +269,7 @@ Simple as that.
 > "I made a game in 10 minutes with Creatworld. It took me six months to learn Unity."  
 > — **An Indie Developer**
 
-> "Compiled to only 50KB. My resume is bigger than this."  
+> "Compiled to only 300KB. My resume is bigger than this."  
 > — **A Game Programmer**
 
 > "Is this engine insane? It's way too simple!"  
